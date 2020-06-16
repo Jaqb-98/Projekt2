@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TournamentTracker", "TournamentTracker\TournamentTracker.csproj", "{5718E170-7E25-4E6B-A4E8-7D1E7A45C622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{C64E75A0-41B2-437F-8970-487EA225E08A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{E6E9EF0D-3013-483D-B879-8EB289DE92DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5718E170-7E25-4E6B-A4E8-7D1E7A45C622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5718E170-7E25-4E6B-A4E8-7D1E7A45C622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5718E170-7E25-4E6B-A4E8-7D1E7A45C622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5718E170-7E25-4E6B-A4E8-7D1E7A45C622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C64E75A0-41B2-437F-8970-487EA225E08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C64E75A0-41B2-437F-8970-487EA225E08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C64E75A0-41B2-437F-8970-487EA225E08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C64E75A0-41B2-437F-8970-487EA225E08A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6E9EF0D-3013-483D-B879-8EB289DE92DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6E9EF0D-3013-483D-B879-8EB289DE92DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6E9EF0D-3013-483D-B879-8EB289DE92DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6E9EF0D-3013-483D-B879-8EB289DE92DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {257B08E5-E920-4202-AEF7-8BEDA9F47A64}
+	EndGlobalSection
+EndGlobal
